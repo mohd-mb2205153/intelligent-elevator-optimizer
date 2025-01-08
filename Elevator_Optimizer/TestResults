@@ -1,0 +1,90 @@
+#Test case 1
+	int k = 2; // No of stops
+	int[] destination = {2, 5, 5, 6, 8}; // Destination of the lift, where should it stop
+	int floors = 10;
+	
+	Cost at floor 1 :21
+	Cost at floor 2 :16
+	Cost at floor 3 :13
+	Cost at floor 4 :10
+	Cost at floor 5 :7
+	Cost at floor 6 :8
+	Cost at floor 7 :11
+	Cost at floor 8 :14
+	Cost at floor 9 :19
+	Cost at floor 10 :24
+	
+	Solution: 
+	5
+	7
+
+#Test case 2
+	int k = 3; // No of stops
+	int[] destination = {2, 5, 5, 6, 8}; // Destination of the lift, where should it stop
+	int floors = 10;
+	
+	Costs of stopping at each floor: 
+	Cost at floor 1 :21
+	Cost at floor 2 :16
+	Cost at floor 3 :13
+	Cost at floor 4 :10
+	Cost at floor 5 :7
+	Cost at floor 6 :8
+	Cost at floor 7 :11
+	Cost at floor 8 :14
+	Cost at floor 9 :19
+	Cost at floor 10 :24
+	
+	Solution: 
+	3
+	5
+	7
+#Test case 3
+	int k = 2; // No of stops
+	int[] destination = {2, 5, 5, 6, 8}; // Destination of the lift, where should it stop
+	int floors = 10;
+
+	Costs of stopping at each floor: 
+	Cost at floor 1 :21
+	Cost at floor 2 :16
+	Cost at floor 3 :13
+	Cost at floor 4 :10
+	Cost at floor 5 :7
+	Cost at floor 6 :8
+	Cost at floor 7 :11
+	Cost at floor 8 :14
+	Cost at floor 9 :19
+	Cost at floor 10 :24
+
+	Solution: 
+	5
+	7
+
+#Test case 4
+	int k = 2; // No of stops
+	int[] destination = {1, 2, 4, 7, 9, 13}; // Destination of the lift, where should it stop
+	int floors = 15;
+	
+	Costs of stopping at each floor: 
+	Cost at floor 1 :30
+	Cost at floor 2 :26
+	Cost at floor 3 :24
+	Cost at floor 4 :22
+	Cost at floor 5 :22
+	Cost at floor 6 :22
+	Cost at floor 7 :22
+	Cost at floor 8 :24
+	Cost at floor 9 :26
+	Cost at floor 10 :30
+	Cost at floor 11 :34
+	Cost at floor 12 :38
+	Cost at floor 13 :42
+	Cost at floor 14 :48
+	Cost at floor 15 :54
+	
+	Solution: 
+	4
+	6
+
+		
+		
